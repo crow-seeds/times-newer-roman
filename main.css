@@ -1,0 +1,54 @@
+.drawing{
+  border: 2px solid black;
+}
+
+body{
+  font: 16px/1.5 "Courier New", serif;
+  text-align: center;
+}
+
+.header{
+  font: 48px/1.5 "Courier New", serif;
+  text-align: center;
+  white-space: pre-wrap;
+  margin-bottom: -20px;
+}
+
+.subheader{
+  font: 24px/1.5 "Courier New", serif;
+  text-align: center;
+  color: #AAA;
+  line-height: .6;
+}
+
+.subheader2{
+  font: 36px/1.5 "Courier New", serif;
+  text-align: center;
+  color: #AAA;
+  line-height: .6;
+}
+
+.text{
+  font: 18px/1.5 "Courier New", serif;
+  text-align: center;
+}
+
+.boldText{
+  font: 18px/1.5 "Courier New", serif;
+  font-weight: bold;
+  text-align: center;
+}
+
+.compactText{
+  font: 18px/1.5 "Courier New", serif;
+  text-align: center;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border: 5px solid #AAA;
+}
